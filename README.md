@@ -1,0 +1,2 @@
+# input-and-output-Area-of-a-circule
+//write a program to find the area of the circle.Take radius of a circle from user as input and print the result in below given format.  //Expected output format- "Area of circle is A having the radius R".Replace A with area &amp; R with radius. #include&lt;stdio.h> int main() {     int r;     float a;     printf("Enter Area of a circle");     scanf("%d",&amp;r);      a=3.14*r*r;      printf("Enter of %f",a);     printf("\n");     return 0;       }
